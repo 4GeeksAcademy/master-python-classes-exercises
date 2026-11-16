@@ -1,0 +1,35 @@
+{
+  "language": "python3",
+  "slug": "master-python-classes-exercises",
+  "title": {
+    "us": "Master Python: Classes and OOP",
+    "es": "Master Python: Clases y POO"
+  },
+  "description": {
+    "us": "17 auto-graded Python exercises on object-oriented programming: classes, special methods, inheritance, polymorphism, static and class methods, properties, composition, abstract classes, dataclasses and iterators.",
+    "es": "17 ejercicios autocorregidos de Python sobre programación orientada a objetos: clases, métodos especiales, herencia, polimorfismo, métodos estáticos y de clase, propiedades, composición, clases abstractas, dataclasses e iteradores."
+  },
+  "repository": "https://github.com/4GeeksAcademy/master-python-classes-exercises",
+  "preview": "https://raw.githubusercontent.com/4GeeksAcademy/master-python-classes-exercises/main/preview.gif",
+  "difficulty": "INTERMEDIATE",
+  "duration": 10,
+  "projectType": "exercise",
+  "grading": "isolated",
+  "localhostOnly": false,
+  "gitpod": true,
+  "technologies": [
+    "python"
+  ],
+  "bugsLink": "https://github.com/4GeeksAcademy/master-python-classes-exercises/issues/new",
+  "delivery": {
+    "instructions": "",
+    "formats": [
+      "url"
+    ],
+    "regex": ""
+  },
+  "editor": {
+    "agent": "vscode",
+    "version": "5.0"
+  }
+}
